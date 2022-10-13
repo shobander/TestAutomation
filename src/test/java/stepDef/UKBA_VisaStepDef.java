@@ -7,6 +7,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
 import static org.hamcrest.CoreMatchers.equalTo;
@@ -42,7 +43,9 @@ public class UKBA_VisaStepDef extends BaseUtil {
     @When("I click on the Continue button")
     public void i_click_on_the_continue_button() {
         // Write code here that turns the phrase above into concrete actions
-        base.driver.findElement(By.xpath("//*[.='Continue']")).click();
+        WebElement continueButton = base.driver.findElement(By.xpath("//*[.='Continue']"));
+        continueButton.click();
+//        base.driver.findElement(By.xpath("//*[.='Continue']")).click();
     }
 
     @When("I select the reason {string}")
