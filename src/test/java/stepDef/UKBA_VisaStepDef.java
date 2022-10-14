@@ -65,6 +65,7 @@ public class UKBA_VisaStepDef extends BaseUtil {
         // Write code here that turns the phrase above into concrete actions
 //        assertThat(base.driver.findElement(By.xpath("//*[.='You’ll need a visa to study in the UK']")).getText(), equalTo(string));
         assertThat(base.driver.findElement(By.xpath("//*[.='" + string + "']")).getText(), equalTo(string));
+//        assertThat(base.driver.findElement(By.cssSelector("input[value='longer_than_six_months']")).click());
     }
 
     //    Scenario 2

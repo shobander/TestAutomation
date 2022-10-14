@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b8bee29-c984-44e3-a309-7ee3c38d11fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Results - TestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test Results - TestRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/UKBA_VIsa.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/UKBA_VIsa.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDef/UKBA_VisaStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDef/UKBA_VisaStepDef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +183,10 @@
       <workItem from="1665423277617" duration="8842000" />
       <workItem from="1665501102527" duration="6155000" />
       <workItem from="1665571226516" duration="1108000" />
-      <workItem from="1665670987547" duration="3362000" />
+      <workItem from="1665670987547" duration="13265000" />
+      <workItem from="1665696923404" duration="401000" />
+      <workItem from="1665697810346" duration="1638000" />
+      <workItem from="1665769297520" duration="4299000" />
     </task>
     <servers />
   </component>

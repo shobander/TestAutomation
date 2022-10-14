@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber/cucumber-report.json",
                 "junit:target/cucumber.xml"
         }
-        ,tags = "@scenout"
+        ,tags = "@scen2 or @scen3"
 )
 public class TestRunner {
 }
