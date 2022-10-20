@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b8bee29-c984-44e3-a309-7ee3c38d11fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursRegisterConfirmationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursRegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/NewtoursStepDef.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test Results - TestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test Results - TestRunner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +188,7 @@
       <workItem from="1666200889615" duration="1004000" />
       <workItem from="1666213512198" duration="1567000" />
       <workItem from="1666281806524" duration="3200000" />
+      <workItem from="1666292874198" duration="1450000" />
     </task>
     <servers />
   </component>
