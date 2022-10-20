@@ -11,7 +11,7 @@ public class NewtoursHomePage extends BasePage {
         super(driver);
     }
 
-//////Locators
+    //////Locators
     @FindBy(linkText = "SIGN-ON")
     private WebElement signOnLinkLocator;
     @FindBy(linkText = "REGISTER")
@@ -39,28 +39,43 @@ public class NewtoursHomePage extends BasePage {
 
     //////Methods to perform actions on the elements/locators
 
-    public void ClickonflightsLink(){
+    public void ClickonflightsLink() {
+
         flightsLinkLocator.click();
     }
-    public void ClickonSignOnLinkLocator(){
+
+    public void ClickonSignOnLinkLocator() {
+
         signOnLinkLocator.click();
     }
-    public void ClickonRegisterLinkLocator(){
+
+    public void ClickonRegisterLinkLocator() {
+
         registerLinkLocator.click();
     }
-    public void ClickonSupportLinkLocator(){
+
+    public void ClickonSupportLinkLocator() {
+
         supportLinkLocator.click();
     }
-    public void ClickonContactLinkLocator(){
+
+    public void ClickonContactLinkLocator() {
+
         contactLinkLocator.click();
     }
-    public void ClickonHomeLinkLocator(){
+
+    public void ClickonHomeLinkLocator() {
+
         homeLinkLocator.click();
     }
-    public void ClickonHotelsLinkLocator(){
+
+    public void ClickonHotelsLinkLocator() {
+
         hotelsLinkLocator.click();
     }
-    public void CliclonCarRentalsLinkLocator(){
+
+    public void CliclonCarRentalsLinkLocator() {
+
         carRentalsLinkLocator.click();
     }
 }

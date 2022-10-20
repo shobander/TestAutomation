@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b8bee29-c984-44e3-a309-7ee3c38d11fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursRegisterConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDef/NewtoursStepDef.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test Results - TestRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test Results - TestRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursFlightFinderPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/NewtoursHomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/UKBA_VIsa.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/UKBA_VIsa.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDef/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDef/UKBA_VisaStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDef/UKBA_VisaStepDef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +155,10 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -186,7 +191,12 @@
       <workItem from="1665670987547" duration="13265000" />
       <workItem from="1665696923404" duration="401000" />
       <workItem from="1665697810346" duration="1638000" />
-      <workItem from="1665769297520" duration="4299000" />
+      <workItem from="1665769297520" duration="11140000" />
+      <workItem from="1666017586425" duration="10584000" />
+      <workItem from="1666100672104" duration="9797000" />
+      <workItem from="1666200889615" duration="1004000" />
+      <workItem from="1666213512198" duration="1567000" />
+      <workItem from="1666281806524" duration="3200000" />
     </task>
     <servers />
   </component>
