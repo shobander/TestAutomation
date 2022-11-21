@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
-public class NewtoursRegisterPage extends BasePage {
+public class NewtoursRegisterPage extends BasePage implements INewtoursRegisterPage {
 
     public NewtoursRegisterPage(WebDriver driver) {
         super(driver);
@@ -55,8 +55,9 @@ public class NewtoursRegisterPage extends BasePage {
         passwordLocator.sendKeys(Password);
     }
     public void enterConfirmPassword(String Password) {
-        confirmPasswordLocator.clear();
-        confirmPasswordLocator.sendKeys(Password);
+//        confirmPasswordLocator.clear();
+//        confirmPasswordLocator.sendKeys(Password);
+        SendKeys(confirmPasswordLocator, Password);
     }
     public void submitForm(){
         submitFormLocator.click();

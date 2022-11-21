@@ -22,6 +22,15 @@ public class BasePage {
         }
         return result;
     }
+
+    public void SendKeys(WebElement elem, String textToEnter){
+        elem.clear();
+        elem.sendKeys(textToEnter);
+    }
+    public void SendKeys(String textToEnter, WebElement elem){
+        elem.clear();
+        elem.sendKeys(textToEnter);
+    }
 }
 
 

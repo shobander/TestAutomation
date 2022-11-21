@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber/cucumber-report.json",
                 "junit:target/cucumber.xml"
         }
-        ,tags = "@newt3"
+        ,tags = "@Nop"
 )
 public class TestRunner {
 }
